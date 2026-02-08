@@ -1,0 +1,8 @@
+{
+  "name": "Nexus Autonomous OS",
+  "description": "24/7 Autonomous Revenue Orchestration Engine.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
